@@ -2,7 +2,11 @@
 
 An integrative bioinformatics visualization project that maps the **canonical human TP53 protein (393 aa)** across DNA codons, mRNA codons, amino acid sequence, structural domains, and clinically significant mutation hotspots.
 
-This project was built to make TP53 variants easier to interpret in a sequence-structure-clinical context, especially for cancer genomics, computational oncology, and structure-guided drug discovery workflows.<img width="1900" height="831" alt="Screenshot 2026-06-26 104406" src="https://github.com/user-attachments/assets/7342c29e-db42-4de3-a3b1-9a5a3f9121ce" />
+This project was built to make TP53 variants easier to interpret in a sequence-structure-clinical context, especially for cancer genomics, computational oncology, and structure-guided drug discovery workflows.<img width="1900" height="995" alt="Screenshot 2026-06-26 104307" src="https://github.com/user-attachments/assets/b233e913-c621-4fc8-b1f1-fb9dd2e95279" />
+<img width="1896" height="993" alt="Screenshot 2026-06-26 104328" src="https://github.com/user-attachments/assets/4881f4c7-bdbc-4ce2-b116-af4f06d209a4" />
+<img width="1896" height="992" alt="Screenshot 2026-06-26 104350" src="https://github.com/user-attachments/assets/de1283ef-43f4-48d5-946d-8f43dae296e0" />
+<img width="1900" height="831" alt="Screenshot 2026-06-26 104406" src="https://github.com/user-attachments/assets/62e08481-e98c-4c9c-86c0-c348ef228de5" />
+
 
 
 ## Project Overview
